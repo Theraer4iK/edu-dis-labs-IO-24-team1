@@ -11,7 +11,7 @@ footer: "ECL 2.0 Licensed | Copyright © [2024] [Sorbat Dmitro]"
 
 *студент [2]-го курсу, групи IO-24* 
 
-**Сорбат Дмитро [Телеграм: @sorbatdima]**
+**Сорбат Дмитро Телеграм студента: @sorbatdima**
 
 **Керівник**
 
